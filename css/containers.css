@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#copy-right-container{
+
+    width: 100%;
+    text-align: center;    
+ }
+ #logo-container{
+    max-width: 1920px;
+    width: 100%;
+   height: 82px;
+   background: transparent;
+   background:#3f3f3f ;
+   text-align: center;
+   }
+ .card-container{
+    max-width: 532px;
+   height: 811px;
+   background: #fff;
+   filter: drop-shadow(0px 4px 16px rgba(0, 0, 0, 0.16));
+   margin: auto; /*to show the card in the center of the main area*/
+   text-align:center;
+   border-radius: 10px;
+   padding: 0 10px;
+   }
+ .welcoming-container{
+    padding-top: 25px;
+    font-size: 18px;
+    line-height: 2.5em;
+
+}
+.form-container{
+    text-align: right;
+    color: #000;
+    margin: 20px 20px ;      
+}
+.card2-container{
+    max-width: 532px;
+    height: 560px;
+    background: #fff;
+    filter: drop-shadow(0px 4px 16px rgba(0, 0, 0, 0.16));
+    margin: auto; /*to show the card in the center of the main area*/
+    text-align:center;
+    border-radius: 10px;
+    padding: 0 10px;
+}
