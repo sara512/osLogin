@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#logo-container{
+ max-width: 1920px;
+ width: 100%;
+height: 82px;
+background: transparent;
+background:#3f3f3f ;
+text-align: center;
+
+}
+
+#logo{
+ width: 176.67px;
+height: 50px;
+margin-top: 1em;
+
+
+}

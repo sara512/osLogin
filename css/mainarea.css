@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main-area{
+    /* text-align: center; */
+    font-family: Dubai;
+    font-weight: 500;
+    font-size: 18px;
+    color: #3f3f3f;
+    /* margin: auto; */
+    padding: 10% ;  /* to make a 10px space from top and bottom*/
+    
+
+}
+.card-container{
+ max-width: 532px;
+height: 811px;
+background: #fff;
+filter: drop-shadow(0px 4px 16px rgba(0, 0, 0, 0.16));
+margin: auto; /*to show the card in the center of the main area*/
+text-align:center;
+border-radius: 10px;
+padding: 0 10px;
+}
+
+.welcoming-container{
+    padding-top: 25px;
+    font-size: 18px;
+    line-height: 2.5em;
+
+}
+#top-first-label{
+    font-size: 24px;
+}
+.form-container{
+    text-align: right;
+    color: #000;
+    /* margin-top: 10px;
+    margin-right: 10px; */
+    margin: 20px 20px ;
+    /* max-width: 500px;
+    max-height: 60px; */
+    /* width: 100%;
+    height: 100; */
+
+    
+}
+.stars{
+    color:#a71c24;
+}
+.input-boxes{
+    color: #b2b2b2;
+    border-radius: 10px;
+   background: #fff;
+    border: 1px solid #b2b2b2;
+    max-width: 500px;
+    height: 40px;
+    width: 100%;
+    padding-right: 10px;
+    margin-top: 10px;
+    
+
+}
+.input-blocks{
+    padding: 10px 0;
+    width: 100%;
+    height: 100%;
+
+}
+.input-blocks a{
+    color:  #0090ff;
+    text-decoration: none;
+}
+#btn{
+    background: #a71c24;
+    color: #fff;
+    text-align: center;
+    display: inline-block;
+   max-width: 500px;
+   width: 100%;
+   height: 40px;
+   border-color: #a71c24;
+   border-radius: 10px;
+   margin: 20px 0;  
+   cursor: pointer;
+
+}
+.sign-in a{
+    margin-top: 25px;
+    font-size: 18px;
+    color: #a71c24;
+    text-decoration: none;
+
+}
+.card2-container{
+    max-width: 532px;
+    height: 560px;
+    background: #fff;
+    filter: drop-shadow(0px 4px 16px rgba(0, 0, 0, 0.16));
+    margin: auto; /*to show the card in the center of the main area*/
+    text-align:center;
+    border-radius: 10px;
+    padding: 0 10px;
+}
+#forget a {
+text-decoration: none;
+font-size: 15px;
+color: #a71c24;
+}
+#forget{
+    margin: 10px 0;
+}
+   
